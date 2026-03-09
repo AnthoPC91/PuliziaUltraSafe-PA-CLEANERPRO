@@ -1,0 +1,6 @@
+Logs/
+Reports/
+*.pdf
+*.html
+*.tmp
+*.bak
