@@ -42,3 +42,7 @@ Sviluppato da **Antonio – Tecnico Informatico**
 ## Licenza
 Uso interno per uffici comunali e privati.  
 Versione: **v1.0**
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-5+-blue)
+![Windows](https://img.shields.io/badge/Windows-10%2B-lightgrey)
+
