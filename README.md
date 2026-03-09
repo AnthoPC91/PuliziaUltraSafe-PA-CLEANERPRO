@@ -36,6 +36,10 @@ L’interfaccia moderna e intuitiva permette agli operatori di effettuare pulizi
 4. Selezionare la modalità di pulizia
 5. Visualizzare log e report generati automaticamente
 
+## Screenshot
+![Screenshot](Screenshot GUI PuliziaUltraSafe-PA-CLEANERPRO.png)
+
+
 ## Autore
 Sviluppato da **Antonio – Tecnico Informatico**
 
