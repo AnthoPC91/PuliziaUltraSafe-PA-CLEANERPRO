@@ -72,3 +72,5 @@ La documentazione completa è disponibile nella cartella `docs/`:
 Questo progetto è distribuito sotto licenza **MIT**.  
 Consulta il file `LICENSE` per maggiori dettagli.
 
+L’app è disponibile sia in versione portatile (senza installazione) sia come pacchetto MSIX firmato per Windows 10/11.
+
