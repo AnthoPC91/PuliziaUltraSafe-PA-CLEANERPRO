@@ -1,52 +1,67 @@
+# PC-Cleaning-and-Maintenance-Toolkit
 
-# Pulizia Ultra Safe PA-CLEANER PRO
+**Suite portatile per la manutenzione sicura di PC Windows in contesti pubblici e privati.**  
+Progettata per tecnici, enti pubblici, scuole, biblioteche e utenti che necessitano di uno strumento affidabile, rapido e privo di rischi per la manutenzione ordinaria dei computer.
 
-## 🇮🇹 Descrizione
-Pulizia Ultra Safe è uno strumento leggero e sicuro progettato per la manutenzione dei PC Windows.  
-Consente di eliminare file temporanei, cache di sistema e residui di applicazioni in modo controllato, evitando percorsi sensibili grazie a un sistema di protezione integrato.  
-Include un’interfaccia grafica moderna, report HTML, esportazione PDF e una modalità avanzata per una pulizia più profonda.
+---
 
-## 🇬🇧 Description
-Pulizia Ultra Safe is a lightweight and safe tool designed for Windows PC maintenance.  
-It removes temporary files, system cache, and application leftovers while protecting sensitive paths through a built‑in safety system.  
-It includes a modern graphical interface, HTML reports, PDF export, and an advanced mode for deeper cleaning.
+## 🚀 Funzionalità principali
 
-## Descrizione
-Pulizia Ultra Safe è un tool sviluppato per semplificare e velocizzare le operazioni di manutenzione ordinaria dei computer negli uffici pubblici e anche privati  
-L’interfaccia moderna e intuitiva permette agli operatori di effettuare pulizie sicure senza rischiare di eliminare file o programmi importanti.
+- Pulizia sicura di file temporanei e cache
+- Ottimizzazione di componenti di sistema selezionati
+- Rilevamento rapido di problemi comuni
+- Interfaccia semplice e immediata
+- Versione completamente **portatile** (nessuna installazione richiesta)
+- Compatibile con Windows 10 e Windows 11
+- Eseguibile firmato e protetto
+- Modalità operativa adatta a contesti pubblici (scuole, PA, biblioteche)
 
-## Funzionalità principali
-- Pulizia standard sicura
-- Pulizia avanzata opzionale
-- Generazione automatica di report PDF
-- Log dettagliati delle operazioni
-- Interfaccia grafica moderna (WPF)
-- Sfondo sfocato, header istituzionale, ombre e animazioni
-- Completamente portabile (nessuna installazione richiesta)
-
-## Requisiti
-- Windows 10 o superiore
-- PowerShell 5.1 o superiore
-- Microsoft Edge (per l’esportazione PDF)
-
-## Come si usa
-1. Estrarre la cartella del progetto
-2. Avviare il tool con **Antho.bat**
-3. Inserire Ufficio e Operatore
-4. Selezionare la modalità di pulizia
-5. Visualizzare log e report generati automaticamente
-
-## Screenshot
-![Screenshot](Screenshot GUI PuliziaUltraSafe-PA-CLEANERPRO.png)
+---
 
 
-## Autore
-Sviluppato da **Antonio – Tecnico Informatico**
+---
 
-## Licenza
-Uso interno per uffici comunali e privati.  
-Versione: **v1.0**
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![PowerShell](https://img.shields.io/badge/PowerShell-5+-blue)
-![Windows](https://img.shields.io/badge/Windows-10%2B-lightgrey)
+## 🛠️ Installazione e utilizzo
+
+Non è richiesta alcuna installazione.
+
+1. Scarica l’ultima release da **Releases**  
+2. Estrai la cartella in un percorso a tua scelta  
+3. Avvia `PC-Maintenance-v1.1.exe` oppure `Antho.bat`  
+4. Segui l’interfaccia per eseguire le operazioni di manutenzione
+
+---
+
+## 🔒 Sicurezza
+
+- Nessuna modifica irreversibile al sistema  
+- Nessuna cancellazione di file personali  
+- Nessuna operazione pericolosa o non documentata  
+- Codice sorgente disponibile per verifica e audit  
+- Ideale per ambienti dove la sicurezza è prioritaria
+
+---
+
+## 📄 Documentazione
+
+La documentazione completa è disponibile nella cartella `docs/`:
+
+- Manuale utente  
+- Privacy Policy  
+- Note tecniche  
+
+---
+
+## 🧩 Requisiti di sistema
+
+- Windows 10 / Windows 11  
+- Permessi standard utente (non richiede privilegi elevati per la maggior parte delle funzioni)  
+- .NET Framework già incluso nel sistema
+
+---
+
+## 📝 Licenza
+
+Questo progetto è distribuito sotto licenza **MIT**.  
+Consulta il file `LICENSE` per maggiori dettagli.
 
